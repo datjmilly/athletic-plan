@@ -1,0 +1,10 @@
+{
+  "name": "Athletic Plan",
+  "short_name": "Athletic Plan",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08111f",
+  "theme_color": "#08111f",
+  "description": "8-week athletic strength and running plan",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
